@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+*.manifest
+*.cache
+*.sock
