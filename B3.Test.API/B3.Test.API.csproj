@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\B3.Test.Application\B3.Test.Application.csproj" />
+    <ProjectReference Include="..\B3.Test.CrossCutting\B3.Test.CrossCutting.csproj" />
+    <ProjectReference Include="..\B3.Test.Data\B3.Test.Data.csproj" />
+    <ProjectReference Include="..\B3.Test.RabbitMq.Abstractions\B3.Test.RabbitMq.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

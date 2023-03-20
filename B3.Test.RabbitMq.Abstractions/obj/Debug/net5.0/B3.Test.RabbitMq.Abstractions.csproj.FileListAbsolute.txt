@@ -1,0 +1,15 @@
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.deps.json
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.dll
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.pdb
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.dll
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.pdb
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.AssemblyInfo.cs
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.csproj.CopyComplete
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.dll
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.pdb
+C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll

@@ -1,0 +1,4 @@
+C:\Users\leand\source\repos\B3.Test\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\B3.Test\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\B3.Test\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.AssemblyInfo.cs
+C:\Users\leand\source\repos\B3.Test\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.csproj.CoreCompileInputs.cache
