@@ -13,3 +13,15 @@ C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5
 C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll
 C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.pdb
 C:\Users\leand\source\repos\B3.Test\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.pdb
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.deps.json
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\ref\B3.Test.RabbitMq.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\bin\Debug\net5.0\B3.Test.RabbitMq.Abstractions.pdb
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.csproj.AssemblyReference.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.AssemblyInfoInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.AssemblyInfo.cs
+C:\Projetos\api-e-worker-b3teste\B3.Test.RabbitMq.Abstractions\obj\Debug\net5.0\B3.Test.RabbitMq.Abstractions.csproj.CoreCompileInputs.cache

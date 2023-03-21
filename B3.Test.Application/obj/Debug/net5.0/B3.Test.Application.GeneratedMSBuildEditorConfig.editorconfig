@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = B3.Test.Application
-build_property.ProjectDir = C:\Users\leand\source\repos\B3.Test\B3.Test.Application\
+build_property.ProjectDir = C:\Projetos\api-e-worker-b3teste\B3.Test.Application\

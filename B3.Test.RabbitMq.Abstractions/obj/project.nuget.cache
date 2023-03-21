@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XRmymFFtKDqPWcb3KJiqylk6s1z35AUusOcIHi8iOqS6YSYyhWak0YOldNDiTHRwnby+HFffS9Y9ZZkmO6L3Ww==",
+  "dgSpecHash": "yQf40m0yyUGdrzYIPqu1i9iYlZ8KkYqccwMrH/STcDYG6FMr/TW8Z0ynNtlLDiSxehywCc27wtaztLpoBWqWCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
+  "projectFilePath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

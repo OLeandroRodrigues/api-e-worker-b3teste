@@ -10,3 +10,15 @@ C:\Users\leand\source\repos\B3.Test\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Doma
 C:\Users\leand\source\repos\B3.Test\B3.Test.Domain\obj\Debug\net5.0\ref\B3.Test.Domain.dll
 C:\Users\leand\source\repos\B3.Test\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.pdb
 C:\Users\leand\source\repos\B3.Test\B3.Test.Domain\bin\Debug\net5.0\ref\B3.Test.Domain.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\bin\Debug\net5.0\B3.Test.Domain.deps.json
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\bin\Debug\net5.0\B3.Test.Domain.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\bin\Debug\net5.0\ref\B3.Test.Domain.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\bin\Debug\net5.0\B3.Test.Domain.pdb
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.csproj.AssemblyReference.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.AssemblyInfoInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.AssemblyInfo.cs
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\ref\B3.Test.Domain.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Domain\obj\Debug\net5.0\B3.Test.Domain.pdb

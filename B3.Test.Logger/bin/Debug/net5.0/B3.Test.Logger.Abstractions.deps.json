@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "B3.Test.Logger.Abstractions/1.0.0": {
+        "runtime": {
+          "B3.Test.Logger.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B3.Test.Logger.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

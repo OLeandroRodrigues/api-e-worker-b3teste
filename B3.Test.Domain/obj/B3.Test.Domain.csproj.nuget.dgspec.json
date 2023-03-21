@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {}
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj",
         "projectName": "B3.Test.Domain",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",

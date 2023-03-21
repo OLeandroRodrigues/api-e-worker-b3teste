@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Logger\\B3.Test.Logger.Abstractions.csproj",
+      "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Logger\\B3.Test.Logger.Abstractions.csproj",
       "projectName": "B3.Test.Logger.Abstractions",
-      "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Logger\\B3.Test.Logger.Abstractions.csproj",
+      "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Logger\\B3.Test.Logger.Abstractions.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Logger\\obj\\",
+      "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Logger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\bin\Debug\net5.0\B3.Test.Logger.Abstractions.deps.json
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\bin\Debug\net5.0\B3.Test.Logger.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\bin\Debug\net5.0\ref\B3.Test.Logger.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\bin\Debug\net5.0\B3.Test.Logger.Abstractions.pdb
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.csproj.AssemblyReference.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.AssemblyInfoInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.AssemblyInfo.cs
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.csproj.CoreCompileInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\ref\B3.Test.Logger.Abstractions.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.Logger\obj\Debug\net5.0\B3.Test.Logger.Abstractions.pdb

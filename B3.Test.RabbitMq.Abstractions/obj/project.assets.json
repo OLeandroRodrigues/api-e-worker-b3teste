@@ -32,16 +32,6 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
         }
-      },
-      "B3.Test.RabbitMq/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/B3.Test.RabbitMq.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/B3.Test.RabbitMq.dll": {}
-        }
       }
     }
   },
@@ -108,16 +98,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "B3.Test.RabbitMq/1.0.0": {
-      "type": "project",
-      "path": "../B3.Test.RabbitMq/B3.Test.RabbitMq.csproj",
-      "msbuildProject": "../B3.Test.RabbitMq/B3.Test.RabbitMq.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "B3.Test.RabbitMq >= 1.0.0",
       "RabbitMQ.Client >= 6.4.0"
     ]
   },
@@ -127,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
+      "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
       "projectName": "B3.Test.RabbitMq.Abstractions",
-      "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
+      "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\obj\\",
+      "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,11 +131,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj": {
-              "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

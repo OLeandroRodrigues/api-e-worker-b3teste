@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1zE+nLtBUPO79Sgj6xzqpBStRo1YfEGbHEUKSJRJBX7w1P9f7DI4XFWbqHItUERLJTg7QB51MHbwn5gaCsgbA==",
+  "dgSpecHash": "aoT553oRq2mhu3yfUpoB+4xS9rS6pPeAIm/ChgdWDfcr951wU1CJaNDag171PsPEFtnUTF1+roybk/NOIV4c3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
+  "projectFilePath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

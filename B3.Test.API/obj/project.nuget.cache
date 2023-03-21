@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjbvn0GZWq8RwDnq91by3Hkh3rS7BcBEBhHNvY2Ppkk3mBK7qNt0R7d24lN5dU35VkQ8XfgoMyzv+/YXi4D2Tg==",
+  "dgSpecHash": "0F+C0QFbUXonQBUDMJ6DvQrgyKqKQiI1uUa6wuKb5wvh+8QwHwAc299U/4o/qf1PE8pj/ZnwnFZCJjmxuCz2+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\B3.Test.API.csproj",
+  "projectFilePath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\B3.Test.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",

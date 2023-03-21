@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {}
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
         "projectName": "B3.Test.CrossCutting",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",

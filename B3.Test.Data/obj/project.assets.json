@@ -970,11 +970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj",
       "projectName": "B3.Test.Data",
-      "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj",
+      "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\obj\\",
+      "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -991,8 +991,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {
-              "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj"
+            "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj"
             }
           }
         }

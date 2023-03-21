@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\B3.Test.API.csproj": {}
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\B3.Test.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\B3.Test.API.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\B3.Test.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\B3.Test.API.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\B3.Test.API.csproj",
         "projectName": "B3.Test.API",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\B3.Test.API.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\B3.Test.API.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.API\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\B3.Test.Application.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\B3.Test.Application.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\B3.Test.Application.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\B3.Test.Application.csproj"
               },
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj"
               },
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj"
               },
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\B3.Test.Application.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\B3.Test.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\B3.Test.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\B3.Test.Application.csproj",
         "projectName": "B3.Test.Application",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\B3.Test.Application.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\B3.Test.Application.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Application\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,11 +116,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj"
               },
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
         "projectName": "B3.Test.CrossCutting",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\B3.Test.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.CrossCutting\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj",
         "projectName": "B3.Test.Data",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,8 +243,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj"
+              "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj"
               }
             }
           }
@@ -291,14 +291,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj",
         "projectName": "B3.Test.Domain",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\B3.Test.Domain.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\B3.Test.Domain.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -351,78 +351,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj": {
+    "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
         "projectName": "B3.Test.RabbitMq.Abstractions",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
+        "projectPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\B3.Test.RabbitMq.Abstractions.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq.Abstractions\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "RabbitMQ.Client": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj",
-        "projectName": "B3.Test.RabbitMq",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\B3.Test.RabbitMq.csproj",
-        "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.RabbitMq\\obj\\",
+        "outputPath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.RabbitMq.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -450,6 +386,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

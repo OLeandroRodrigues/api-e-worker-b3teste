@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHrX1PsD9J8b+/ENxqYO5lXkfHFFgSjdQKkjM2uMidRiG6mCmG5WXhEp6/oxaIYY0/o3SezLa8jFT5riUx2qBA==",
+  "dgSpecHash": "xuJ+l0pOjkOeprCLHVmDNM2pnaaS8d0U7u/HnIqeY+/IIojew7Bm+hlT5Pn1C2C8wAZxixMhMs8rlsO5ZO64dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\B3.Test\\B3.Test.Data\\B3.Test.Data.csproj",
+  "projectFilePath": "C:\\Projetos\\api-e-worker-b3teste\\B3.Test.Data\\B3.Test.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",

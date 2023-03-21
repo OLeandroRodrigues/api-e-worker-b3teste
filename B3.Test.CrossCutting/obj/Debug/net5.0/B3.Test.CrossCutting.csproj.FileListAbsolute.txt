@@ -10,3 +10,15 @@ C:\Users\leand\source\repos\B3.Test\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Tes
 C:\Users\leand\source\repos\B3.Test\B3.Test.CrossCutting\obj\Debug\net5.0\ref\B3.Test.CrossCutting.dll
 C:\Users\leand\source\repos\B3.Test\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.pdb
 C:\Users\leand\source\repos\B3.Test\B3.Test.CrossCutting\bin\Debug\net5.0\ref\B3.Test.CrossCutting.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\bin\Debug\net5.0\B3.Test.CrossCutting.deps.json
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\bin\Debug\net5.0\B3.Test.CrossCutting.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\bin\Debug\net5.0\ref\B3.Test.CrossCutting.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\bin\Debug\net5.0\B3.Test.CrossCutting.pdb
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.AssemblyInfo.cs
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\ref\B3.Test.CrossCutting.dll
+C:\Projetos\api-e-worker-b3teste\B3.Test.CrossCutting\obj\Debug\net5.0\B3.Test.CrossCutting.pdb
