@@ -1846,17 +1846,8 @@
           "B3.Test.Domain.dll": {}
         }
       },
-      "B3.Test.RabbitMq/1.0.0": {
-        "runtime": {
-          "B3.Test.RabbitMq.dll": {}
-        },
-        "compile": {
-          "B3.Test.RabbitMq.dll": {}
-        }
-      },
       "B3.Test.RabbitMq.Abstractions/1.0.0": {
         "dependencies": {
-          "B3.Test.RabbitMq": "1.0.0",
           "RabbitMQ.Client": "6.4.0"
         },
         "runtime": {
@@ -4519,11 +4510,6 @@
       "sha512": ""
     },
     "B3.Test.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "B3.Test.RabbitMq/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
