@@ -3,3 +3,5 @@
 *.manifest
 *.cache
 *.sock
+*.suo
+*.dtbcache.v2
